@@ -1,3 +1,5 @@
+package estruturas;
+
 import java.util.concurrent.ThreadLocalRandom;
 
 public class ExWihile {

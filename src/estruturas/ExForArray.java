@@ -1,3 +1,5 @@
+package estruturas;
+
 public class ExForArray {
     public static void main(String[] args) {
         String alunos[] = {"FELIPE", "JONAS", "JULIA", "MARCOS"};

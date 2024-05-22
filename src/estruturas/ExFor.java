@@ -1,3 +1,5 @@
+package estruturas;
+
 public class ExFor {
 
     public static void main(String[] args) {
